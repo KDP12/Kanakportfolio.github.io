@@ -3234,7 +3234,7 @@ input, select, textarea {
 			width: 100%;
 			height: 100%;
 			background-color: #212931;
-			background-image: url("../../images/overlay.png"), linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("../../images/g.jpeg");
+			background-image: url("../../images/overlay.png"), linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("../../images/bg.jpeg");
 			background-size: auto,								auto,														100% auto;
 			background-position: center,								center,														top center;
 			background-repeat: repeat,								no-repeat,													no-repeat;
@@ -3314,11 +3314,11 @@ input, select, textarea {
 	}
 
 		#intro input, #intro select, #intro textarea {
-			color: #f0d1d1;
+			color: #fdc0c0;
 		}
 
 		#intro a {
-			color: #f3d2d2;
+			color: #fdc0c0;
 			border-bottom-color: rgba(255, 255, 255, 0.5);
 		}
 
@@ -3332,20 +3332,20 @@ input, select, textarea {
 		}
 
 		#intro h1, #intro h2, #intro h3, #intro h4, #intro h5, #intro h6 {
-			color: #ffffff;
+			color: #fdc0c0;
 		}
 
 		#intro blockquote {
-			border-left-color: #ffffff;
+			border-left-color: #fdc0c0;
 		}
 
 		#intro code {
 			background: rgba(255, 255, 255, 0.075);
-			border-color: #ffffff;
+			border-color: #fdc0c0;
 		}
 
 		#intro hr {
-			border-bottom-color: #ffffff;
+			border-bottom-color: #fdc0c0;
 		}
 
 		#intro input[type="submit"],
