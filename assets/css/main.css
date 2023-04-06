@@ -3284,7 +3284,7 @@ input, select, textarea {
 /* Intro */
 
 	#intro {
-		color: #480472;
+		color: #f8d7d7;
 		padding: 8rem 4rem 6rem 4rem ;
 		-moz-align-items: center;
 		-webkit-align-items: center;
@@ -3314,11 +3314,11 @@ input, select, textarea {
 	}
 
 		#intro input, #intro select, #intro textarea {
-			color: #480472;
+			color: #f0d1d1;
 		}
 
 		#intro a {
-			color: #480472;
+			color: #f3d2d2;
 			border-bottom-color: rgba(255, 255, 255, 0.5);
 		}
 
@@ -3328,24 +3328,24 @@ input, select, textarea {
 			}
 
 		#intro strong, #intro b {
-			color: #480472;
+			color: #ebeaea;
 		}
 
 		#intro h1, #intro h2, #intro h3, #intro h4, #intro h5, #intro h6 {
-			color: #480472;
+			color: #ffffff;
 		}
 
 		#intro blockquote {
-			border-left-color: #480472;
+			border-left-color: #ffffff;
 		}
 
 		#intro code {
 			background: rgba(255, 255, 255, 0.075);
-			border-color: #480472;
+			border-color: #ffffff;
 		}
 
 		#intro hr {
-			border-bottom-color: #480472;
+			border-bottom-color: #ffffff;
 		}
 
 		#intro input[type="submit"],
@@ -3355,7 +3355,7 @@ input, select, textarea {
 		#intro .button {
 			background-color: transparent;
 			box-shadow: inset 0 0 0 2px #ffffff;
-			color: #480472 !important;
+			color: #ffffff !important;
 		}
 
 			#intro input[type="submit"]:hover,
@@ -3372,7 +3372,7 @@ input, select, textarea {
 			#intro input[type="button"].primary,
 			#intro button.primary,
 			#intro .button.primary {
-				background-color: #480472;
+				background-color: #ffffff;
 				box-shadow: none;
 				color: #1e252d !important;
 			}
@@ -3493,7 +3493,7 @@ input, select, textarea {
 /* Header */
 
 	#header {
-		color: #480472;
+		color: #ffffff;
 		-moz-align-items: center;
 		-webkit-align-items: center;
 		-ms-align-items: center;
@@ -3523,11 +3523,11 @@ input, select, textarea {
 	}
 
 		#header input, #header select, #header textarea {
-			color: #480472;
+			color: #ffffff;
 		}
 
 		#header a {
-			color: #480472;
+			color: #ffffff;
 			border-bottom-color: rgba(255, 255, 255, 0.5);
 		}
 
@@ -3537,15 +3537,15 @@ input, select, textarea {
 			}
 
 		#header strong, #header b {
-			color: #480472;
+			color: #ffffff;
 		}
 
 		#header h1, #header h2, #header h3, #header h4, #header h5, #header h6 {
-			color: #480472;
+			color: #ffffff;
 		}
 
 		#header blockquote {
-			border-left-color: #480472;
+			border-left-color: #ffffff;
 		}
 
 		#header code {
